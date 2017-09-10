@@ -3,7 +3,7 @@ Has 6 great movies. When the movies are clicked you will be shown the movies tra
 
 
 ## Opening the Fresh Tomatoes web page
-To open the web page simples open the fresh_tomatoes.html file
+To open the web page simpley open the fresh_tomatoes.html file
 
 ## File descriptions
 * media.py: Holds the movie class. The movie class stores movie information
