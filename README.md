@@ -4,8 +4,9 @@ Has 6 great movies. When the movies are clicked you will be shown the movies tra
 
 ## Opening the Fresh Tomatoes web page
 1. In the terminal:
-  * First find where the movie_final folder is located
-  * On the next line type: open ./fresh_tomatoes.html
+  * Locate and go to the movie_final folder
+  * after movie_final $ type:
+   open ./fresh_tomatoes.html
   * The webpage will now open in your browser
 
 2. In IDLE:
